@@ -1,0 +1,14 @@
+
+.vs/
+
+Assembly-CSharp-firstpass/obj/
+
+Assembly-CSharp-firstpass/bin/
+
+Assembly-CSharp/bin/
+
+Assembly-CSharp/obj/
+
+lib/Assembly-CSharp-firstpass.dll
+
+lib/Assembly-CSharp.dll

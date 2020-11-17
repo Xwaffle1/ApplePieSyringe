@@ -1,0 +1,1 @@
+C:\Users\chase\Downloads\MonoMod-20.11.05.01-net40\MonoMod.exe C:\Users\chase\AppData\Local\DiscordGames\Temtem\content\Temtem_Data\Managed\Assembly-CSharp-firstpass.dll & C:\Users\chase\Downloads\MonoMod-20.11.05.01-net40\MonoMod.exe C:\Users\chase\AppData\Local\DiscordGames\Temtem\content\Temtem_Data\Managed\Assembly-CSharp.dll
